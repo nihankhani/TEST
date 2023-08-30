@@ -1,0 +1,23 @@
+body{
+   background-image: url("/images/Nutrition-and-mental-health.jpg");
+}
+.article{
+    width: 600px;
+    height: 400px;
+    background-color:rgb(248, 234, 109);
+    text-align: center;
+    padding-top: 20px;
+    border-radius: 50px ;
+    margin-left: 400px;
+    margin-top: 150px;
+}
+.article img{
+    width: 200px;
+    height: 200px;
+}
+.submit-btn{
+    width: 100px;
+    height: 30px;
+    background-color: rgb(243, 229, 105);
+    border-radius: 10px;
+}

@@ -1,0 +1,25 @@
+body{
+    background-image: url("/images/158.jpg");
+}
+.article{
+    width: 600px;
+    height: 450px;
+    background-color:rgb(248, 234, 109) ;
+    text-align: center;
+    padding-top: 20px;
+    border-radius: 50px ;
+    margin-left: 400px;
+    margin-top: 100px;
+}
+
+.article img{
+    width: 500px;
+    height: 300px;
+}
+
+.submit-btn{
+    width: 100px;
+    height: 30px;
+   background-color: rgb(243, 229, 105);
+    border-radius: 10px;
+}
